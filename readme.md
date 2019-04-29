@@ -1,7 +1,7 @@
 # This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
-This is a [GraphQL API](http://graphql.org/) version of a Spring-gRPC-GraphQL PetClinic Application. 
+This is a Spring-gRPC-GraphQl version of a Sprin-GraphQL PetClinic Application . 
 It consists of two parts:
 
 * The Spring Boot-based backend, that uses the graphql-java implementation for the server-side
